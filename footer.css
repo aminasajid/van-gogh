@@ -1,0 +1,116 @@
+footer{
+    background-color: brown;
+    height: 230px;
+    display: flex;
+    padding-top: 30px;
+    align-items: start;
+    justify-content: center;
+}
+.foot{
+    width:30%;
+    margin-left: 20px;
+   
+    text-align: center;
+    background-color: brown;
+    color: #c4ab4b;
+
+}
+.foot h3{
+    background-color: brown;
+}
+.foot p{
+    background-color: brown;
+    font-size: 20px;
+}
+form{
+    background-color: brown;
+}
+input{
+    text-align: center;
+    height: 30px;
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 33px;
+}
+textarea{
+    text-align: center;
+    height: 30px;
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 33px;
+}
+.foot button{
+    background-color:#c4ab4b ;
+}
+.full{
+    height: 500px;
+    width: 1300px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+   text-align: justify;
+   margin-left: 40px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+
+}
+.quotes{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 500px;
+    width: 700px;
+    margin-right: 50px;
+    background-color: transparent;
+    border-radius: 30%;
+}
+.quotes-1{
+    background-image: url(https://assets.vangoghmuseum.nl/026f24c5-b2a9-490c-a3e8-2029075417e7?w=1200&format=webp&c=5db46832468eee33aff56eb76f6d39bcd1afa97be563708c22544c934b62dc22);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.quotes-2{
+   background-image: url(https://www.vincentvangogh.org/assets/img/paintings/almond-blossom.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.quotes-3{
+    background-image: url(https://www.vincentvangogh.org/assets/img/paintings/cypresses.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.quotes-4{
+    background-image: url(https://www.vincentvangogh.org/assets/img/paintings/factories-at-asnieres.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.quotes p{
+    background-color: transparent;
+    color: #f1f1f1;
+    font-size: 20px;
+    padding:20px ;
+    font-weight: bolder;
+}
+.quotes-4 p{
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding:20px ;
+    font-weight: bolder;
+}
+.quotes:hover{
+    border-radius: 10%;
+    height: 510px;
+    width: 710px;
+}
+iframe{
+    width: 100%;
+}
